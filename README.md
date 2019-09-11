@@ -1,6 +1,7 @@
 # GIT E GITHUB
 
 Guia prático para iniciantes.
+[Video tutorial da Rocketseat](https://www.youtube.com/watch?v=2alg7MQ6_sI)
 
 ### Instalação
 
